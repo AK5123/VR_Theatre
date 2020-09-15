@@ -11,3 +11,11 @@ To get the app running locally:
 - Clone this repo
 - `npm install` to install all required dependencies
 - `npm start` to start website localhost.
+
+# Detailed Description
+
+[Check out in Devpost :)](https://devpost.com/software/virtual-galaxy-gf4dxi)
+
+# Demo Video
+
+[![SC2 Video](https://img.youtube.com/vi/u6wHv34VSVE/0.jpg)](https://youtu.be/u6wHv34VSVE)
